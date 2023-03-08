@@ -1,0 +1,20 @@
+#container{
+    margin-left: 17%;
+    display: flex;
+    background-color: gray;
+    width: 1000px;
+    height: 850px;
+    flex-wrap:wrap;
+    align-content: space-between;
+    padding: 10px;
+    gap: 10px 10px
+
+}
+button{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    width: 190px;
+    height: 100px;
+    background-color: rgb(39, 255, 39)
+    ;
+}
