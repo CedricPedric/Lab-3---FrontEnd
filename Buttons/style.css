@@ -1,0 +1,27 @@
+#container{
+    flex-direction: row ;
+    display: flex;
+    width: 400px;
+    height: 150px;
+    background-color: white;
+    margin-left: 40%;
+    justify-content: center;
+}
+button{
+    color:white;
+    width:100px;
+    height:50px;
+    margin: 5px;
+}
+#green-button{
+    background-color: green;
+}
+#red-button{
+    background-color: red;
+}
+#blue-button{
+    background-color: blue;
+}
+body{
+    background-color: gray;
+}
